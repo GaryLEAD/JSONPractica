@@ -1,4 +1,4 @@
 {
-    "frutas": "manzana, pera , banana, sandia",
-    "verdura": "apio, culantro, papa, yuca" 
+    "frutas": ["manzana, pera , banana, sandia"],
+    "verdura": ["apio", "culantro", "papa", "yuca"] 
 }
